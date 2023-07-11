@@ -22,8 +22,8 @@ input[type= checkbox]:focus{
   box-shadow: none;
 }
 
-.banner-1{
-  background-image: url(./assets/banner-1.png);
+.banner-2{
+  background-image: url(./assets/banner-2.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
