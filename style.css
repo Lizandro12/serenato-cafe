@@ -54,3 +54,22 @@ input[type= checkbox]:focus{
   background-position: center;
   background-attachment: fixed;
 }
+
+.botao-padrao{
+  background-color: var(--marrom-claro);
+  border: none;
+  color: #000000;
+}
+
+.botao-padrao:hover{
+  background-color: var(--marrom-escuro);
+  color: #000000;
+}
+
+.card__padrao{
+  border: solid 1px var(--marrom-claro);
+}
+
+.card{
+  cursor: pointer;
+}
