@@ -1,2 +1,2 @@
 # serenato-cafe
- site de um café
+ Serenato é um site de um café que foi construido totalmente em bootstrap.
